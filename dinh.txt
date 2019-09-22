@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 test xung dot mater
 hjbjhb
+=======
+aaaaaaaaa
+cua can la: haha
+>>>>>>> f7d6db4d1fca059431383eec47ca40d5293cbe2e
