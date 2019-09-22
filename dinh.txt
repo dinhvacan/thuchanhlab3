@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test xung dot dinh 2
+=======
+test xung dot dinh1
+>>>>>>> dinh1
