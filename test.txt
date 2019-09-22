@@ -1,1 +1,2 @@
+test xung dot nhanh 1
 test xung dot nhanh 2
